@@ -32,12 +32,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔐 .env Setup
 
-Create a `.env` file in the root directory:
-
-```
-UNUSUAL_WHALES_API_KEY=your_api_key_here
 ```
 
 ---
